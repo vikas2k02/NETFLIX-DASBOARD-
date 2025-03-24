@@ -6,7 +6,9 @@
 
 This Tableau dashboard provides an in-depth analysis of 8,807 Netflix titles across 86 countries, offering insights into content trends, viewer preferences, and Netflix’s global reach.
 
+
 **Key Features:**
+
 
 **Content Distribution:** Breakdown of movies and TV shows across regions.
 
@@ -18,8 +20,10 @@ This Tableau dashboard provides an in-depth analysis of 8,807 Netflix titles acr
 
 **Interactive Visuals:** Enables dynamic filtering and data exploration.
 
+
 **Technologies Used:**
 Tableau (for visualization and dashboard design)
+
 
 **Insights & Impact:**
 
