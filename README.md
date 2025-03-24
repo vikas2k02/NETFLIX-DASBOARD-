@@ -9,9 +9,13 @@ This Tableau dashboard provides an in-depth analysis of 8,807 Netflix titles acr
 **Key Features:**
 
 **Content Distribution:** Breakdown of movies and TV shows across regions.
+
 **Average Duration Analysis:** Examines content length variations by category.
+
 **Director Contributions:** Identifies top directors and their influence on Netflix.
+
 **Regional Trends:** Highlights the most active content-producing countries.
+
 **Interactive Visuals:** Enables dynamic filtering and data exploration.
 
 **Technologies Used:**
